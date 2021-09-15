@@ -2,3 +2,12 @@
 • What does fast-forward in Git mean?
 • Why should you have different branches?
 • In a project how many remote Git repositories do you usually have?
+
+
+1.) gitignore file is used to ignore some specific files when working on a project, it should include jar, war, ear and other package related files when opted for java
+
+2.) fast forward means moves the source branch pointer to target without making an extra commit
+
+3.) when working on a project everyone involved in can work simultaneously on different parts irrespective of the progress in other branches.
+
+4.) depending on the size of the project you can have multiple repositories and one named origin
